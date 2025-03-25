@@ -1,4 +1,3 @@
-# decrypt.ps1
 param ()
 
 $inputText = [Console]::In.ReadToEnd()
